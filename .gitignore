@@ -1,0 +1,23 @@
+.DS_Store
+
+# Python cache and local test artifacts
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.coverage
+tmp/
+*.tmp
+
+# Real redemption-code inputs
+code.csv
+codes.csv
+*.codes.csv
+*.real.csv
+
+# Local send ledgers and issue logs
+sent-ledger.csv
+issue-log.csv
+*.sent-ledger.csv
+*.issue-log.csv
+*.ledger.csv
+*.issues.csv

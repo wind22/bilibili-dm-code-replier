@@ -1,0 +1,4 @@
+interface:
+  display_name: "Bilibili DM Code Replier"
+  short_description: "Handle Bilibili DM code replies"
+  default_prompt: "Use $bilibili-dm-code-replier to process a Bilibili private-message page with my CSV codes and send-record file."
